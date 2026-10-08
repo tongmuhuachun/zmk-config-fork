@@ -1,6 +1,0 @@
-if SHIELD_AO20_L
-
-config ZMK_KEYBOARD_NAME
-    default "ao20_L"
-
-endif
