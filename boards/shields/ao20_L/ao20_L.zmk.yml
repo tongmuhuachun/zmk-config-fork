@@ -4,5 +4,6 @@ name: ao20_L
 type: shield
 url: https://github.com/
 requires: [pro_micro]
+exposes: []
 features:
   - keys
